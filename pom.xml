@@ -40,6 +40,11 @@
             <artifactId>jstl</artifactId>
             <version>1.2</version>
         </dependency>
+        <!-- <dependency>
+            <groupId>javax.servlet-new</groupId>
+            <artifactId>jstl-new</artifactId>
+            <version>1.2</version>
+        </dependency> -->
         <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
         <dependency>
             <groupId>mysql</groupId>
